@@ -1,0 +1,21 @@
+1.5 Advantages of source control
+-  Distribute your file changes overtime
+- Prevent against data loss/damage by creating backup snapshots
+- Manage complex project structures.
+
+1.6 Other Examples
+- Mercurial
+- Subversion
+1.7 Git Workflow
+- Staging Area is the bundle of all the modifications to the project that are going to be committed.
+- A “Commit” is similar to taking a snapshot of the current state of the project, then storing it on a timeline.
+1.8 Git Introductory Command
+$ git init
+1.9 Workflow Diagram
+
+1.10 Downloading Git\
+- Navigate to https://git-scm.com/downloads
+1.11 Installing Git
+1.12 Configuring git on your system.
+- git config –global user.name “ngutor tsenongo”
+-git config – gblobal
